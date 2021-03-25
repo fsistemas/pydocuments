@@ -1,4 +1,5 @@
 config/db-config.json
+.~lock.*
 venv
 output
 test.db
