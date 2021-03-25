@@ -1,0 +1,5 @@
+config/db-config.json
+venv
+output
+test.db
+__pycache__

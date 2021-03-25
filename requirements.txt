@@ -1,0 +1,6 @@
+sql2json
+docxtpl
+#OSX only(local)
+PyMySQL==0.9.3
+#No osx - linux/pythonanywhere
+#mysqlclient

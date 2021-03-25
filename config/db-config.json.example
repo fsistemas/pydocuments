@@ -1,0 +1,6 @@
+{
+    "conections": {
+        "mysql-local": "mysql+pymysql://db-user:db-password@host:3306/dbname"
+    },
+    "queries": {}
+}
