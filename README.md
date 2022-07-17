@@ -1,5 +1,5 @@
 # Py Documents
-Example application to query a database extract information and generate Word documents usinga template and sql results
+Example application to query a database extract information and generate Word documents using a template and sql results
 
 ## Create virtual environment:
 python3 -m venv venv
